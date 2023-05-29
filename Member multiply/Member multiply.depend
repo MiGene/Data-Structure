@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662806330 source:d:\year 2\intro data struct\member multiply\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633885732 source:d:\year 2\intro data struct\vector block swap\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1633880728 d:\year 2\intro data struct\vector block swap\vector.h
+	<stdexcept>
+	<iostream>
+
+1664185096 d:\year 2\intro data struct\vector block swap\student.h
+

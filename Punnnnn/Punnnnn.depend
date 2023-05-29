@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662200391 source:d:\year 2\intro data struct\punnnnn\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+

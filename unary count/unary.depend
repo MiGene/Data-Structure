@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461682910 source:d:\year 2\intro data struct\unary count\main.cpp
+	<vector>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+
+1461682616 d:\year 2\intro data struct\unary count\map_bst.h
+	<iostream>
+
+1668522585 d:\year 2\intro data struct\unary count\student.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661337022 source:d:\year 2\intro data struct\interval count\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636998740 source:d:\year 2\intro data struct\data-class-master\exercise\dq1_vector_equal\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1636998740 d:\year 2\intro data struct\data-class-master\exercise\dq1_vector_equal\package\vector.h
+	<stdexcept>
+	<iostream>
+
+1663162093 d:\year 2\intro data struct\data-class-master\exercise\dq1_vector_equal\package\student.h
+

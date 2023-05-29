@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572188724 source:d:\year 2\intro data struct\insert many\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1571926314 d:\year 2\intro data struct\insert many\vector.h
+	<stdexcept>
+	<iostream>
+
+1663344014 d:\year 2\intro data struct\insert many\student.h
+	<algorithm>
+

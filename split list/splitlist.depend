@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667546902 source:d:\year 2\intro data struct\split list\main.cpp
+	<iostream>
+	"list.h"
+
+1667547016 d:\year 2\intro data struct\split list\list.h
+	<stdexcept>
+	<iostream>
+	"student.h"
+
+1667580363 d:\year 2\intro data struct\split list\student.h
+

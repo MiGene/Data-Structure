@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603706304 source:d:\year 2\intro data struct\heap change\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1666070045 d:\year 2\intro data struct\heap change\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666243899 d:\year 2\intro data struct\heap change\student.h
+	<assert.h>
+

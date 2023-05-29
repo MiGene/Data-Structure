@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1456245226 source:d:\year 2\intro data struct\data-class-master\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1456244981 d:\year 2\intro data struct\data-class-master\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663169865 d:\year 2\intro data struct\data-class-master\student.h
+

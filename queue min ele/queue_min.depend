@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666615826 source:d:\year 2\intro data struct\queue min ele\main.cpp
+	<iostream>
+	<string>
+	"queue.h"
+	"student.h"
+
+1666629278 d:\year 2\intro data struct\queue min ele\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1668928814 d:\year 2\intro data struct\queue min ele\student.h
+	<algorithm>
+	<vector>
+

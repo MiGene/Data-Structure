@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637203314 source:d:\year 2\intro data struct\list merge\main.cpp
+	<cassert>
+	<vector>
+	<iostream>
+	<string>
+	"list.h"
+	"student.h"
+
+1637238663 d:\year 2\intro data struct\list merge\list.h
+	<stdexcept>
+	<iostream>
+
+1667213347 d:\year 2\intro data struct\list merge\student.h
+	<algorithm>
+

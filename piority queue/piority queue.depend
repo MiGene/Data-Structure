@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662980911 source:d:\year 2\intro data struct\piority queue\main.cpp
+	<iostream>
+	<queue>
+	<string>
+

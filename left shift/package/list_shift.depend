@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1574567664 source:d:\year 2\intro data struct\left shift\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"list.h"
+	"student.h"
+	<vector>
+
+1574567549 d:\year 2\intro data struct\left shift\package\list.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<set>
+
+1667473870 d:\year 2\intro data struct\left shift\package\student.h
+	<algorithm>
+

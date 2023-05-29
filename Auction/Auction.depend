@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663084407 source:d:\year 2\intro data struct\auction\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<map>
+	<set>
+	<algorithm>
+

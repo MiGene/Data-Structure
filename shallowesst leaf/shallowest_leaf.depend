@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606127208 source:d:\year 2\intro data struct\shallowesst leaf\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1606127190 d:\year 2\intro data struct\shallowesst leaf\map_bst.h
+	<iostream>
+
+1668161899 d:\year 2\intro data struct\shallowesst leaf\student.h
+	<algorithm>
+	<iostream>
+

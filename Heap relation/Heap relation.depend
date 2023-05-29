@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668774402 source:d:\year 2\intro data struct\heap relation\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667135611 source:d:\year 2\intro data struct\playlist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

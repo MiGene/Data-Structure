@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601384238 source:d:\year 2\intro data struct\vector compress\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1601384188 d:\year 2\intro data struct\vector compress\vector.h
+	<stdexcept>
+	<iostream>
+
+1663409554 d:\year 2\intro data struct\vector compress\student.h
+

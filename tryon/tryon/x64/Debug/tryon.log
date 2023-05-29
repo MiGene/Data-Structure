@@ -1,0 +1,44 @@
+﻿  tryon.cpp
+D:\Year 2\Intro data struct\tryon\tryon\tryon.cpp(23,8): error C2665: 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find': none of the 2 overloads could convert all the argument types
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1366,31): message : could be 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,int>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &) const'
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1362,25): message : or       'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,int>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+D:\Year 2\Intro data struct\tryon\tryon\tryon.cpp(23,16): message : 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,int>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)': cannot convert argument 1 from 'int' to 'const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &'
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+D:\Year 2\Intro data struct\tryon\tryon\tryon.cpp(23,8): message : Reason: cannot convert from 'int' to 'const std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Year 2\Intro data struct\tryon\tryon\tryon.cpp(23,8): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1362,25): message : see declaration of 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find'
+          with
+          [
+              _Kty=std::string,
+              _Ty=int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+D:\Year 2\Intro data struct\tryon\tryon\tryon.cpp(23,8): message : while trying to match the argument list '(int)'

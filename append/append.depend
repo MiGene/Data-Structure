@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538125268 source:d:\year 2\intro data struct\append\main.cpp
+	<iostream>
+	"student.h"
+
+1664278299 d:\year 2\intro data struct\append\student.h
+	"stack.h"
+	"queue.h"
+
+1538123458 d:\year 2\intro data struct\append\stack.h
+	<stdexcept>
+	<iostream>
+
+1538123468 d:\year 2\intro data struct\append\queue.h
+	<stdexcept>
+	<iostream>
+

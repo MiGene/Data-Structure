@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574779318 source:d:\year 2\intro data struct\queue move to front\package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1575433956 d:\year 2\intro data struct\queue move to front\package\queue.h
+	<stdexcept>
+	<iostream>
+
+1664272705 d:\year 2\intro data struct\queue move to front\package\student.h
+	<algorithm>
+	<iostream>
+

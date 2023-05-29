@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637084130 source:d:\year 2\intro data struct\move insert stack\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1637082886 d:\year 2\intro data struct\move insert stack\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	"stack.h"
+
+1663924674 d:\year 2\intro data struct\move insert stack\student.h
+

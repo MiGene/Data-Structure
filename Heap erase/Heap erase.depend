@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666068912 source:d:\year 2\intro data struct\heap erase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

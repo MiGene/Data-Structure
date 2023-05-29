@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606104526 source:d:\year 2\intro data struct\list reverse\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1635788314 d:\year 2\intro data struct\list reverse\list.h
+	<stdexcept>
+	<iostream>
+
+1668157969 d:\year 2\intro data struct\list reverse\student.h
+	<algorithm>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1488942504 source:d:\year 2\intro data struct\pop many\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1488852696 d:\year 2\intro data struct\pop many\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+
+1663671490 d:\year 2\intro data struct\pop many\student.h
+

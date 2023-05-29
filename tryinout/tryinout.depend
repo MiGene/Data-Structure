@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660213357 source:d:\year 2\intro data struct\tryinout\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660936619 source:d:\year 2\intro data struct\intersect2_2\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

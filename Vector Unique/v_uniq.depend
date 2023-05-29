@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508116978 source:d:\year 2\intro data struct\vector unique\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507942112 d:\year 2\intro data struct\vector unique\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663323624 d:\year 2\intro data struct\vector unique\student.h
+	<set>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538127322 source:d:\year 2\intro data struct\ordered set\main.cpp
+	<iostream>
+	"student.h"
+
+1663339536 d:\year 2\intro data struct\ordered set\student.h
+	<vector>
+	<set>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1569943026 source:d:\year 2\intro data struct\it check\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1569859656 d:\year 2\intro data struct\it check\vector.h
+	<stdexcept>
+	<iostream>
+
+1663408706 d:\year 2\intro data struct\it check\student.h
+	<set>
+

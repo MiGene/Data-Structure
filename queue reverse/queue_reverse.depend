@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637247164 source:d:\year 2\intro data struct\queue reverse\main.cpp
+	<iostream>
+	<string>
+	"queue.h"
+	"student.h"
+
+1637238954 d:\year 2\intro data struct\queue reverse\queue.h
+	<stdexcept>
+	<iostream>
+
+1668510244 d:\year 2\intro data struct\queue reverse\student.h
+	<cassert>
+

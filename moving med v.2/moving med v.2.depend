@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662445119 source:d:\year 2\intro data struct\moving med v.2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

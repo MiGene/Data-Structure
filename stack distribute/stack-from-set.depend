@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635178818 source:d:\year 2\intro data struct\stack distribute\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1635174754 d:\year 2\intro data struct\stack distribute\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663928901 d:\year 2\intro data struct\stack distribute\student.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601388869 source:d:\year 2\intro data struct\stack reserve\main.cpp
+	<iostream>
+	"stack.h"
+	"student.h"
+
+1601388882 d:\year 2\intro data struct\stack reserve\stack.h
+	<stdexcept>
+	<iostream>
+
+1664119018 d:\year 2\intro data struct\stack reserve\student.h
+

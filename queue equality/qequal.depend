@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1491361674 source:d:\year 2\intro data struct\queue equality\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1491321636 d:\year 2\intro data struct\queue equality\queue.h
+	<stdexcept>
+	<iostream>
+
+1664344627 d:\year 2\intro data struct\queue equality\student.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662278183 source:d:\year 2\intro data struct\moving medan\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+	<vector>
+

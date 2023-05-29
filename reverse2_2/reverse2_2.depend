@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660900292 source:d:\year 2\intro data struct\reverse2_2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

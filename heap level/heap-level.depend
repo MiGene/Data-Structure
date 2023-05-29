@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637328356 source:d:\year 2\intro data struct\heap level\main.cpp
+	<algorithm>
+	<random>
+	<chrono>
+	<cassert>
+	<string>
+	"priority_queue.h"
+	"student.h"
+
+1637328226 d:\year 2\intro data struct\heap level\priority_queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1668677664 d:\year 2\intro data struct\heap level\student.h
+	<algorithm>
+	<vector>
+	"priority_queue.h"
+	<math.h>
+

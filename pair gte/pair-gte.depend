@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601261464 source:d:\year 2\intro data struct\pair gte\main.cpp
+	<stdexcept>
+	<iostream>
+	"pair.h"
+	"student.h"
+	<string>
+
+1662999018 d:\year 2\intro data struct\pair gte\pair.h
+	<iostream>
+	<assert.h>
+
+1662999016 d:\year 2\intro data struct\pair gte\student.h
+
